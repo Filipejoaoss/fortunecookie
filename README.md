@@ -4,7 +4,7 @@ Small front-end project to display random  phrases when we open the fortune cook
 
 The Framework used for this project was React.
 
-## Configuration
+## Setup and Configuration
 
 Install dependencies
 ```bash
