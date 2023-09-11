@@ -2,7 +2,7 @@
 
 Small front-end project to display random  phrases when we open the fortune cookie.
 
-The technology used for this project was React.
+This project used React.
 
 ## Setup and Configuration
 
